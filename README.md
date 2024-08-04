@@ -46,5 +46,5 @@ If you have a project or idea and are looking for a dedicated and experienced de
 
 Feel free to reach out or connect with me on:
 
-- [LinkedIn]([#](https://www.linkedin.com/in/divyesh-savaliya-divtechnosoft/))
+- [LinkedIn](https://www.linkedin.com/in/divyesh-savaliya-divtechnosoft/)
 - [Email](mailto:divyesh@divtechnosoft.com)
